@@ -7,7 +7,7 @@ __pycache__/
 *.so
 # custom ignore
 env/
-*.tcv
+*.tsv
 *.pkl
 
 # Distribution / packaging
